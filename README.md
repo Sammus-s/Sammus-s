@@ -1,16 +1,13 @@
-### Hi there 👋
+<div style="display: flex;">
+    <div>
+        <h1 align="center">Hi, I'm Samuel R <img src="https://media.tenor.com/XcNH-ksCe-wAAAAi/hartello-pl-poland.gif" alt=""></h1>
+        <br>
+        <h3>teste</h3>
+        <h3>teste</h3>
+        <h3>teste</h3>
+    </div>            
+</div>
 
-<!--
-**Sammus-s/Sammus-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src=".\Sammus-s\svg\c.svg" alt="Github Stats" />
+</p>
